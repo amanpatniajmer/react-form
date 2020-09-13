@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is live on the given firebase link: [https://react-form-7006e.firebaseio.com/users.json](https://react-form-7006e.firebaseio.com/users.json).
 
 ## Available Scripts
 
